@@ -46,7 +46,7 @@ This guide demonstrates how to store, retrieve, and use secrets stored in AWS Se
      ```
 
 2. **Create a Python Script:**
-   - Save the following code as `fetch_secret.py`:
+   - Save the following code as `secret.py`:
 
      ```python
      import boto3
@@ -71,7 +71,7 @@ This guide demonstrates how to store, retrieve, and use secrets stored in AWS Se
 3. **Run the Script:**
    - Execute the script in your terminal:
      ```bash
-     python fetch_secret.py
+     python secret.py
      ```
 
    - You should see the following output:
