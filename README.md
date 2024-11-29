@@ -11,8 +11,8 @@ This guide demonstrates how to store, retrieve, and use secrets stored in AWS Se
    - Click on `Store a new secret`.
    - Select `Other type of secret`.
    - Under `Key/value pairs`, enter:
-     - Key: `username`, Value: `gopika`
-     - Key: `password`, Value: `Saythename@17`
+     - Key: `username`, Value: `user`
+     - Key: `password`, Value: `password`
    - Click `Next`.
 
 3. **Name the Secret:**
@@ -76,8 +76,8 @@ This guide demonstrates how to store, retrieve, and use secrets stored in AWS Se
 
    - You should see the following output:
      ```
-     Username: gopika
-     Password: Saythename@17
+     Username: user
+     Password: password
      ```
 
 ## Conclusion
