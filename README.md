@@ -1,0 +1,1 @@
+# Fetching_Secrets_from_AWS_Secrets_Manager_using_Python
